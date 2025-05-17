@@ -18,5 +18,6 @@ func main() {
 	}
 	fmt.Print("MANDI MALAM DI WARUNG BATAK")
 	fmt.Print("MMALAM KEOS INI")
+	fmt.Print("INVIT OKA KE https://discord.gg/T5E7vurY")
 	fmt.Println(himpunan)
 }
