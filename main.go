@@ -17,5 +17,6 @@ func main() {
 		himpunan[j] = temp
 	}
 	fmt.Print("MANDI MALAM DI WARUNG BATAK")
+	fmt.Print("MMALAM KEOS INI")
 	fmt.Println(himpunan)
 }
