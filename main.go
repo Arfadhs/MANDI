@@ -17,4 +17,5 @@ func main() {
 		himpunan[j] = temp
 	}
 	fmt.Println(himpunan)
+	//ini gimana rip
 }
